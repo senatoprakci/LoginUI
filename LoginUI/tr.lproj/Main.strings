@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Forgot Password?"; ObjectID = "30e-2q-2DU"; */
+"30e-2q-2DU.text" = "Şifreni mi unuttun?";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "A0V-MI-bPY"; */
+"A0V-MI-bPY.text" = "Giriş Yap";
+
+/* Class = "UILabel"; text = "Don't have an account ? "; ObjectID = "EHE-k4-xpv"; */
+"EHE-k4-xpv.text" = "Hesabın yok mu? ";
+
+/* Class = "UILabel"; text = "Signup"; ObjectID = "R8w-od-aNa"; */
+"R8w-od-aNa.text" = "Kayıt ol";
+
+/* Class = "UILabel"; text = "- Or Sign in with - "; ObjectID = "dZd-YT-7Xy"; */
+"dZd-YT-7Xy.text" = "- ya da şunlarla giriş yap - ";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "eyX-ci-NH0"; */
+"eyX-ci-NH0.placeholder" = "Şifre";
+
+/* Class = "UILabel"; text = "Login to your account"; ObjectID = "hdf-D0-aoT"; */
+"hdf-D0-aoT.text" = "Hesabına giriş yap";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "vBN-XR-WTa"; */
+"vBN-XR-WTa.placeholder" = "Kullanıcı adı";
